@@ -1,0 +1,11 @@
+# Runtime state: ledger, snapshots of the user's files, receipts.
+state/
+receipts/
+STOP
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.DS_Store
+*.log
